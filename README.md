@@ -2,7 +2,7 @@
 
 Official repository for the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025) paper: **IEEEXplore | [ArXiv](https://arxiv.org/abs/2310.19545v2)**.
 
-# Overview of Method
+## Overview of Method
 
 <p align="center">
   <img src="mentor.png" width="500" />
@@ -15,7 +15,7 @@ Official repository for the IEEE/CVF Winter Conference on Applications of Comput
   <img src="Human-Mentor-Sampler.png" width="400" height="400" />
 </p>
 
-# How to run
+## How to run
 
 1. Build the conda environment for the autoencoder using `autoencoder-environment.yml`, and `environment.yml` for the subsequent CNNs.
 2. Train MENTOR using the instructions provided in `MENTOR training.ipynb`
@@ -23,7 +23,7 @@ Official repository for the IEEE/CVF Winter Conference on Applications of Comput
 
 **MENTOR weights** for all architectures can be downloaded via this [Box folder](https://notredame.box.com/s/xzpshhh0l07qgfledevhf8ttgn1kscat).
 
-# Citation
+## Citation
 ```
 @inproceedings{crum2025mentor,
   title={MENTOR: Human Perception-Guided Pretraining for Increased Generalization},
