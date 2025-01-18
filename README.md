@@ -1,8 +1,6 @@
 # MENTOR: Human Perception-Guided Pretraining for Increased Generalization
 
-Official repository for the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025) paper.
-
-**Paper: IEEEXplore | [ArXiv](https://arxiv.org/abs/2310.19545v2)**
+Official repository for the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025) paper: **IEEEXplore | [ArXiv](https://arxiv.org/abs/2310.19545v2)**.
 
 # Overview of Method
 
