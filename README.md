@@ -5,7 +5,7 @@ Official repository for the IEEE/CVF Winter Conference on Applications of Comput
 ### Paper: IEEEXplore | [ArXiv](https://arxiv.org/abs/2310.19545v2)
 
 <p align="center">
-  <img src="mentor.png" width="500" height="400" />
+  <img src="mentor.png" width="500" />
 </p>
 
 # Overview of Method
