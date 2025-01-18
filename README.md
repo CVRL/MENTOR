@@ -17,14 +17,15 @@ Official repository for the IEEE/CVF Winter Conference on Applications of Comput
   <img src="Human-Mentor-Sampler.png" width="400" height="400" />
 </p>
 
-# How to run & requirements
-- Build the conda environment for the autoencoder using `autoencoder-environment.yml`, and `environment.yml` for the subsequent CNNs. Train MENTOR using the instructions provided in `MENTOR training.ipynb`
-- Train and test CNNs (ResNet152, InceptionV4, and EfficientNet_b7) using MENTOR and ImageNet weights using `./training_code/train.py` and `./testing_code/test.py`
+# How to run
 
-### Weights
-MENTOR weights for all architectures can be downloaded via this [Box folder](https://notredame.box.com/s/xzpshhh0l07qgfledevhf8ttgn1kscat).
+1. Build the conda environment for the autoencoder using `autoencoder-environment.yml`, and `environment.yml` for the subsequent CNNs.
+2. Train MENTOR using the instructions provided in `MENTOR training.ipynb`
+3. Train and test CNNs (ResNet152, InceptionV4, and EfficientNet_b7) using MENTOR and ImageNet weights using `./training_code/train.py` and `./testing_code/test.py`
 
-### Citation
+**MENTOR weights** for all architectures can be downloaded via this [Box folder](https://notredame.box.com/s/xzpshhh0l07qgfledevhf8ttgn1kscat).
+
+# Citation
 ```
 @inproceedings{crum2025mentor,
   title={MENTOR: Human Perception-Guided Pretraining for Increased Generalization},
